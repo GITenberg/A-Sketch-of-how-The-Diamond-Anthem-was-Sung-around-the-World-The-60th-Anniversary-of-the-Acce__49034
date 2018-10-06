@@ -21,6 +21,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'A Sketch of how "The Diamond Anthem" was Sung around the World
 
   The 60th Anniversary of the Accession Day of Her Majesty Queen Victoria'
